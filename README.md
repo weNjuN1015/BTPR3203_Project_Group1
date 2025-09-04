@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Social Media Sentiment Analysis (Modular Python Project)
 
@@ -22,3 +23,6 @@ Outputs (CSV + PNGs) will be placed in `outputs/`.
 ## Notes
 - No external downloads (e.g., NLTK corpora) are required; `vaderSentiment` includes its own lexicon.
 - If your dataset uses different column names, update `config.py` accordingly.
+=======
+# BTPR3203_Project_Group1
+>>>>>>> 566e5d8f7f60ad2724aa7f5c16630dc2545c4e30
